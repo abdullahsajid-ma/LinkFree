@@ -1,45 +1,47 @@
-## [0.73.6](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.5...v0.73.6) (2022-09-09)
+## [2.99.16](https://github.com/EddieHubCommunity/BioDrop/compare/v2.99.15...v2.99.16) (2024-02-13)
 
 
 ### Bug Fixes
 
-* dunnjacoba milestones ([#1740](https://github.com/EddieHubCommunity/LinkFree/issues/1740)) ([42371d3](https://github.com/EddieHubCommunity/LinkFree/commit/42371d3b8ae86e9253f5869b2c9dab9629869686))
+* bump nvmrc to support NextJS min requirements ([#10225](https://github.com/EddieHubCommunity/BioDrop/issues/10225)) ([4dd228f](https://github.com/EddieHubCommunity/BioDrop/commit/4dd228fc268b98b9f5a2952290da424a73eaa00b))
 
 
 
-## [0.73.5](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.4...v0.73.5) (2022-09-08)
-
-
-### Bug Fixes
-
-* github sponsors ([#1725](https://github.com/EddieHubCommunity/LinkFree/issues/1725)) ([526a22f](https://github.com/EddieHubCommunity/LinkFree/commit/526a22f15b38976b11907f10218ce0525a3353e7))
-
-
-
-## [0.73.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.3...v0.73.4) (2022-09-07)
+## [2.99.15](https://github.com/EddieHubCommunity/BioDrop/compare/v2.99.14...v2.99.15) (2024-02-11)
 
 
 ### Bug Fixes
 
-* minor typo in ankushtripathii.json ([#1723](https://github.com/EddieHubCommunity/LinkFree/issues/1723)) ([02a488b](https://github.com/EddieHubCommunity/LinkFree/commit/02a488b33e56461e628c756f2855561aaea44db0))
+* CoC contact link ([#10230](https://github.com/EddieHubCommunity/BioDrop/issues/10230)) ([a2b8e47](https://github.com/EddieHubCommunity/BioDrop/commit/a2b8e47b5ad1bd1ddc1bff6a5ad0a3a2b96787cc))
 
 
 
-## [0.73.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.2...v0.73.3) (2022-09-04)
-
-
-### Bug Fixes
-
-* Ali reza twitter handle ([#1719](https://github.com/EddieHubCommunity/LinkFree/issues/1719)) ([3b0ead2](https://github.com/EddieHubCommunity/LinkFree/commit/3b0ead267e86f38a85f6436499a20678f7312184))
-
-
-
-## [0.73.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.1...v0.73.2) (2022-09-03)
+## [2.99.14](https://github.com/EddieHubCommunity/BioDrop/compare/v2.99.13...v2.99.14) (2024-02-11)
 
 
 ### Bug Fixes
 
-* update discord icon [#1698](https://github.com/EddieHubCommunity/LinkFree/issues/1698) ([#1699](https://github.com/EddieHubCommunity/LinkFree/issues/1699)) ([bd62cd2](https://github.com/EddieHubCommunity/LinkFree/commit/bd62cd26fb29b0bbb6d64d33dcf29beefa03525e))
+* security contact info ([#10228](https://github.com/EddieHubCommunity/BioDrop/issues/10228)) ([b219a97](https://github.com/EddieHubCommunity/BioDrop/commit/b219a97c447052b55733082819dc5566ee55a187))
+
+
+
+## [2.99.13](https://github.com/EddieHubCommunity/BioDrop/compare/v2.99.12...v2.99.13) (2024-02-03)
+
+
+### Bug Fixes
+
+* git-auto-commit-action to v5 ([#10213](https://github.com/EddieHubCommunity/BioDrop/issues/10213)) ([074c2b2](https://github.com/EddieHubCommunity/BioDrop/commit/074c2b20e963fdd5041e0d168316ef4c4989b027))
+
+
+
+## [2.99.12](https://github.com/EddieHubCommunity/BioDrop/compare/v2.99.11...v2.99.12) (2024-02-01)
+
+
+### Bug Fixes
+
+* delete data/https: directory ([#10205](https://github.com/EddieHubCommunity/BioDrop/issues/10205)) ([8e56685](https://github.com/EddieHubCommunity/BioDrop/commit/8e5668594c051e896150a34d131663eea2801f9f))
+* delete data/TobySolutions directory ([#10206](https://github.com/EddieHubCommunity/BioDrop/issues/10206)) ([a06b043](https://github.com/EddieHubCommunity/BioDrop/commit/a06b043b875968b8eb4be6d8f9ece61f042ace8b))
+* gh action paths-filter version ([#10202](https://github.com/EddieHubCommunity/BioDrop/issues/10202)) ([ff28958](https://github.com/EddieHubCommunity/BioDrop/commit/ff28958b125bd25b5466f6663d40d5360796a61b))
 
 
 
